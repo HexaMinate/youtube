@@ -1,5 +1,10 @@
 # Group Help Lite Telegram Bot
 
+## Demo
+
+https://user-images.githubusercontent.com/82513502/170227856-af5f3ebd-b848-473b-8895-4cc03a1251f5.mp4
+
+
 ## ID Library
 - [Lumpia.js](https://lumpia.js.org/docs/)
   Library untuk berinteraksi dengan api telegram
