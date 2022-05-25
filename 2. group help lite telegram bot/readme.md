@@ -1,14 +1,13 @@
 # Group Help Lite Telegram Bot
 
+
+
 ## Demo
-
  
-
-
 https://user-images.githubusercontent.com/82513502/170228441-b09849cf-0c10-476a-9f5f-ef14d9de088a.mp4
 
 
-
+[Tutorial](https://www.youtube.com/watch?v=SuOVQ2Aw5p4&t=1016s)
 
 ## ID Library
 - [Lumpia.js](https://lumpia.js.org/docs/)
